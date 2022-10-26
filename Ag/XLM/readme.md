@@ -9343,3 +9343,4778 @@ weighted avg       0.70      0.73      0.66      1269
 
 Acc : 0.7265563435776202	 F1: 0.2237136465324385
 
+epochs : 1
+ [[775  10]
+ [406 401]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.66      0.99      0.79       785
+           1       0.98      0.50      0.66       807
+
+    accuracy                           0.74      1592
+   macro avg       0.82      0.74      0.72      1592
+weighted avg       0.82      0.74      0.72      1592
+
+Acc : 0.7386934673366834	 F1: 0.6584564860426929
+
+epochs : 1
+ [[724   3]
+ [247  53]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.75      1.00      0.85       727
+           1       0.95      0.18      0.30       300
+
+    accuracy                           0.76      1027
+   macro avg       0.85      0.59      0.58      1027
+weighted avg       0.80      0.76      0.69      1027
+
+Acc : 0.7565725413826679	 F1: 0.297752808988764
+
+epochs : 1
+ [[902   0]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.0
+
+epochs : 1
+ [[769  16]
+ [324 483]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.70      0.98      0.82       785
+           1       0.97      0.60      0.74       807
+
+    accuracy                           0.79      1592
+   macro avg       0.84      0.79      0.78      1592
+weighted avg       0.84      0.79      0.78      1592
+
+Acc : 0.7864321608040201	 F1: 0.7396630934150077
+
+epochs : 1
+ [[705  22]
+ [148 152]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.83      0.97      0.89       727
+           1       0.87      0.51      0.64       300
+
+    accuracy                           0.83      1027
+   macro avg       0.85      0.74      0.77      1027
+weighted avg       0.84      0.83      0.82      1027
+
+Acc : 0.8344693281402142	 F1: 0.6413502109704642
+
+epochs : 1
+ [[885  17]
+ [350  17]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.72      0.98      0.83       902
+           1       0.50      0.05      0.08       367
+
+    accuracy                           0.71      1269
+   macro avg       0.61      0.51      0.46      1269
+weighted avg       0.65      0.71      0.61      1269
+
+Acc : 0.710795902285264	 F1: 0.08478802992518703
+
+epochs : 2
+ [[766  19]
+ [223 584]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.77      0.98      0.86       785
+           1       0.97      0.72      0.83       807
+
+    accuracy                           0.85      1592
+   macro avg       0.87      0.85      0.85      1592
+weighted avg       0.87      0.85      0.85      1592
+
+Acc : 0.8479899497487438	 F1: 0.8283687943262411
+
+epochs : 2
+ [[714  13]
+ [146 154]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.83      0.98      0.90       727
+           1       0.92      0.51      0.66       300
+
+    accuracy                           0.85      1027
+   macro avg       0.88      0.75      0.78      1027
+weighted avg       0.86      0.85      0.83      1027
+
+Acc : 0.8451801363193768	 F1: 0.6595289079229122
+
+epochs : 2
+ [[886  16]
+ [335  32]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.73      0.98      0.83       902
+           1       0.67      0.09      0.15       367
+
+    accuracy                           0.72      1269
+   macro avg       0.70      0.53      0.49      1269
+weighted avg       0.71      0.72      0.64      1269
+
+Acc : 0.723404255319149	 F1: 0.15421686746987953
+
+epochs : 3
+ [[762  23]
+ [205 602]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.79      0.97      0.87       785
+           1       0.96      0.75      0.84       807
+
+    accuracy                           0.86      1592
+   macro avg       0.88      0.86      0.86      1592
+weighted avg       0.88      0.86      0.86      1592
+
+Acc : 0.8567839195979899	 F1: 0.840782122905028
+
+epochs : 3
+ [[707  20]
+ [150 150]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.82      0.97      0.89       727
+           1       0.88      0.50      0.64       300
+
+    accuracy                           0.83      1027
+   macro avg       0.85      0.74      0.77      1027
+weighted avg       0.84      0.83      0.82      1027
+
+Acc : 0.8344693281402142	 F1: 0.6382978723404256
+
+epochs : 3
+ [[895   7]
+ [347  20]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.72      0.99      0.83       902
+           1       0.74      0.05      0.10       367
+
+    accuracy                           0.72      1269
+   macro avg       0.73      0.52      0.47      1269
+weighted avg       0.73      0.72      0.62      1269
+
+Acc : 0.7210401891252955	 F1: 0.10152284263959391
+
+epochs : 4
+ [[758  27]
+ [193 614]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.80      0.97      0.87       785
+           1       0.96      0.76      0.85       807
+
+    accuracy                           0.86      1592
+   macro avg       0.88      0.86      0.86      1592
+weighted avg       0.88      0.86      0.86      1592
+
+Acc : 0.8618090452261307	 F1: 0.8480662983425414
+
+epochs : 4
+ [[701  26]
+ [127 173]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.85      0.96      0.90       727
+           1       0.87      0.58      0.69       300
+
+    accuracy                           0.85      1027
+   macro avg       0.86      0.77      0.80      1027
+weighted avg       0.85      0.85      0.84      1027
+
+Acc : 0.8510223953261928	 F1: 0.6933867735470942
+
+epochs : 4
+ [[886  16]
+ [334  33]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.73      0.98      0.84       902
+           1       0.67      0.09      0.16       367
+
+    accuracy                           0.72      1269
+   macro avg       0.70      0.54      0.50      1269
+weighted avg       0.71      0.72      0.64      1269
+
+Acc : 0.7241922773837668	 F1: 0.15865384615384615
+
+epochs : 5
+ [[747  38]
+ [158 649]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.83      0.95      0.88       785
+           1       0.94      0.80      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8768844221105527	 F1: 0.8688085676037482
+
+epochs : 5
+ [[677  50]
+ [ 84 216]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.89      0.93      0.91       727
+           1       0.81      0.72      0.76       300
+
+    accuracy                           0.87      1027
+   macro avg       0.85      0.83      0.84      1027
+weighted avg       0.87      0.87      0.87      1027
+
+Acc : 0.8695228821811101	 F1: 0.7632508833922261
+
+epochs : 5
+ [[852  50]
+ [292  75]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83       902
+           1       0.60      0.20      0.30       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.57      0.57      1269
+weighted avg       0.70      0.73      0.68      1269
+
+Acc : 0.7304964539007093	 F1: 0.3048780487804878
+
+epochs : 6
+ [[765  20]
+ [232 575]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.77      0.97      0.86       785
+           1       0.97      0.71      0.82       807
+
+    accuracy                           0.84      1592
+   macro avg       0.87      0.84      0.84      1592
+weighted avg       0.87      0.84      0.84      1592
+
+Acc : 0.8417085427135679	 F1: 0.8202567760342369
+
+epochs : 6
+ [[709  18]
+ [134 166]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.84      0.98      0.90       727
+           1       0.90      0.55      0.69       300
+
+    accuracy                           0.85      1027
+   macro avg       0.87      0.76      0.79      1027
+weighted avg       0.86      0.85      0.84      1027
+
+Acc : 0.8519961051606622	 F1: 0.6859504132231404
+
+epochs : 6
+ [[869  33]
+ [309  58]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.74      0.96      0.84       902
+           1       0.64      0.16      0.25       367
+
+    accuracy                           0.73      1269
+   macro avg       0.69      0.56      0.54      1269
+weighted avg       0.71      0.73      0.67      1269
+
+Acc : 0.7304964539007093	 F1: 0.25327510917030566
+
+epochs : 7
+ [[737  48]
+ [125 682]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.89       785
+           1       0.93      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8874430709173715
+
+epochs : 7
+ [[674  53]
+ [ 88 212]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.88      0.93      0.91       727
+           1       0.80      0.71      0.75       300
+
+    accuracy                           0.86      1027
+   macro avg       0.84      0.82      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8627069133398247	 F1: 0.7504424778761062
+
+epochs : 7
+ [[829  73]
+ [283  84]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.75      0.92      0.82       902
+           1       0.54      0.23      0.32       367
+
+    accuracy                           0.72      1269
+   macro avg       0.64      0.57      0.57      1269
+weighted avg       0.68      0.72      0.68      1269
+
+Acc : 0.7194641449960599	 F1: 0.32061068702290074
+
+epochs : 1
+ [[773  12]
+ [390 417]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.66      0.98      0.79       785
+           1       0.97      0.52      0.67       807
+
+    accuracy                           0.75      1592
+   macro avg       0.82      0.75      0.73      1592
+weighted avg       0.82      0.75      0.73      1592
+
+Acc : 0.7474874371859297	 F1: 0.674757281553398
+
+epochs : 1
+ [[713  14]
+ [205  95]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.78      0.98      0.87       727
+           1       0.87      0.32      0.46       300
+
+    accuracy                           0.79      1027
+   macro avg       0.82      0.65      0.67      1027
+weighted avg       0.80      0.79      0.75      1027
+
+Acc : 0.7867575462512172	 F1: 0.46454767726161367
+
+epochs : 1
+ [[902   0]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.0
+
+epochs : 2
+ [[736  49]
+ [171 636]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.81      0.94      0.87       785
+           1       0.93      0.79      0.85       807
+
+    accuracy                           0.86      1592
+   macro avg       0.87      0.86      0.86      1592
+weighted avg       0.87      0.86      0.86      1592
+
+Acc : 0.8618090452261307	 F1: 0.8525469168900806
+
+epochs : 2
+ [[653  74]
+ [100 200]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.87      0.90      0.88       727
+           1       0.73      0.67      0.70       300
+
+    accuracy                           0.83      1027
+   macro avg       0.80      0.78      0.79      1027
+weighted avg       0.83      0.83      0.83      1027
+
+Acc : 0.8305744888023369	 F1: 0.6968641114982579
+
+epochs : 2
+ [[902   0]
+ [367   0]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.0
+
+epochs : 3
+ [[757  28]
+ [202 605]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.79      0.96      0.87       785
+           1       0.96      0.75      0.84       807
+
+    accuracy                           0.86      1592
+   macro avg       0.87      0.86      0.85      1592
+weighted avg       0.87      0.86      0.85      1592
+
+Acc : 0.8555276381909548	 F1: 0.8402777777777778
+
+epochs : 3
+ [[682  45]
+ [106 194]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.87      0.94      0.90       727
+           1       0.81      0.65      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.79      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8529698149951315	 F1: 0.719851576994434
+
+epochs : 3
+ [[902   0]
+ [365   2]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       1.00      0.01      0.01       367
+
+    accuracy                           0.71      1269
+   macro avg       0.86      0.50      0.42      1269
+weighted avg       0.80      0.71      0.59      1269
+
+Acc : 0.7123719464144996	 F1: 0.010840108401084009
+
+epochs : 4
+ [[759  26]
+ [183 624]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.81      0.97      0.88       785
+           1       0.96      0.77      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8687185929648241	 F1: 0.8565545641729582
+
+epochs : 4
+ [[674  53]
+ [101 199]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       727
+           1       0.79      0.66      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8500486854917235	 F1: 0.7210144927536231
+
+epochs : 4
+ [[901   1]
+ [366   1]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.50      0.00      0.01       367
+
+    accuracy                           0.71      1269
+   macro avg       0.61      0.50      0.42      1269
+weighted avg       0.65      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.0054200542005420045
+
+epochs : 5
+ [[753  32]
+ [147 660]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.84      0.96      0.89       785
+           1       0.95      0.82      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8875628140703518	 F1: 0.8805870580386925
+
+epochs : 5
+ [[659  68]
+ [ 81 219]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       727
+           1       0.76      0.73      0.75       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.82      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8549172346640701	 F1: 0.7461669505962522
+
+epochs : 5
+ [[902   0]
+ [366   1]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       1.00      0.00      0.01       367
+
+    accuracy                           0.71      1269
+   macro avg       0.86      0.50      0.42      1269
+weighted avg       0.79      0.71      0.59      1269
+
+Acc : 0.7115839243498818	 F1: 0.005434782608695652
+
+epochs : 1
+ [[782   3]
+ [757  50]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.51      1.00      0.67       785
+           1       0.94      0.06      0.12       807
+
+    accuracy                           0.52      1592
+   macro avg       0.73      0.53      0.39      1592
+weighted avg       0.73      0.52      0.39      1592
+
+Acc : 0.5226130653266332	 F1: 0.11627906976744186
+
+epochs : 1
+ [[727   0]
+ [288  12]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.72      1.00      0.83       727
+           1       1.00      0.04      0.08       300
+
+    accuracy                           0.72      1027
+   macro avg       0.86      0.52      0.46      1027
+weighted avg       0.80      0.72      0.61      1027
+
+Acc : 0.7195715676728335	 F1: 0.07692307692307693
+
+epochs : 1
+ [[902   0]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.0
+
+epochs : 2
+ [[753  32]
+ [184 623]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.80      0.96      0.87       785
+           1       0.95      0.77      0.85       807
+
+    accuracy                           0.86      1592
+   macro avg       0.88      0.87      0.86      1592
+weighted avg       0.88      0.86      0.86      1592
+
+Acc : 0.864321608040201	 F1: 0.8522571819425444
+
+epochs : 2
+ [[659  68]
+ [ 95 205]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       727
+           1       0.75      0.68      0.72       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.79      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8412852969814996	 F1: 0.7155322862129145
+
+epochs : 2
+ [[901   1]
+ [364   3]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.75      0.01      0.02       367
+
+    accuracy                           0.71      1269
+   macro avg       0.73      0.50      0.42      1269
+weighted avg       0.72      0.71      0.60      1269
+
+Acc : 0.7123719464144996	 F1: 0.016172506738544472
+
+epochs : 3
+ [[748  37]
+ [144 663]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89       785
+           1       0.95      0.82      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8863065326633166	 F1: 0.8798938287989383
+
+epochs : 3
+ [[647  80]
+ [ 77 223]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       727
+           1       0.74      0.74      0.74       300
+
+    accuracy                           0.85      1027
+   macro avg       0.81      0.82      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8471275559883155	 F1: 0.7396351575456053
+
+epochs : 3
+ [[896   6]
+ [353  14]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.72      0.99      0.83       902
+           1       0.70      0.04      0.07       367
+
+    accuracy                           0.72      1269
+   macro avg       0.71      0.52      0.45      1269
+weighted avg       0.71      0.72      0.61      1269
+
+Acc : 0.7171000788022065	 F1: 0.07235142118863049
+
+epochs : 4
+ [[753  32]
+ [151 656]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.83      0.96      0.89       785
+           1       0.95      0.81      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.88      1592
+weighted avg       0.89      0.89      0.88      1592
+
+Acc : 0.8850502512562815	 F1: 0.8775919732441472
+
+epochs : 4
+ [[693  34]
+ [123 177]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       727
+           1       0.84      0.59      0.69       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.77      0.80      1027
+weighted avg       0.85      0.85      0.84      1027
+
+Acc : 0.8471275559883155	 F1: 0.6927592954990215
+
+epochs : 4
+ [[901   1]
+ [356  11]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.72      1.00      0.83       902
+           1       0.92      0.03      0.06       367
+
+    accuracy                           0.72      1269
+   macro avg       0.82      0.51      0.45      1269
+weighted avg       0.77      0.72      0.61      1269
+
+Acc : 0.7186761229314421	 F1: 0.058047493403693924
+
+epochs : 5
+ [[755  30]
+ [181 626]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88       785
+           1       0.95      0.78      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.867462311557789	 F1: 0.8557758031442242
+
+epochs : 5
+ [[690  37]
+ [106 194]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.87      0.95      0.91       727
+           1       0.84      0.65      0.73       300
+
+    accuracy                           0.86      1027
+   macro avg       0.85      0.80      0.82      1027
+weighted avg       0.86      0.86      0.85      1027
+
+Acc : 0.8607594936708861	 F1: 0.7306967984934086
+
+epochs : 5
+ [[858  44]
+ [306  61]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.74      0.95      0.83       902
+           1       0.58      0.17      0.26       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.56      0.54      1269
+weighted avg       0.69      0.72      0.67      1269
+
+Acc : 0.7241922773837668	 F1: 0.2584745762711865
+
+epochs : 6
+ [[739  46]
+ [128 679]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.89       785
+           1       0.94      0.84      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8907035175879398	 F1: 0.8864229765013054
+
+epochs : 6
+ [[651  76]
+ [ 68 232]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       727
+           1       0.75      0.77      0.76       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.83      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8597857838364168	 F1: 0.763157894736842
+
+epochs : 6
+ [[876  26]
+ [330  37]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.73      0.97      0.83       902
+           1       0.59      0.10      0.17       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.54      0.50      1269
+weighted avg       0.69      0.72      0.64      1269
+
+Acc : 0.7194641449960599	 F1: 0.17209302325581394
+
+epochs : 7
+ [[727  58]
+ [114 693]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89       785
+           1       0.92      0.86      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8919597989949749	 F1: 0.889602053915276
+
+epochs : 7
+ [[671  56]
+ [111 189]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89       727
+           1       0.77      0.63      0.69       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.78      0.79      1027
+weighted avg       0.83      0.84      0.83      1027
+
+Acc : 0.8373904576436222	 F1: 0.6935779816513762
+
+epochs : 7
+ [[830  72]
+ [268  99]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.76      0.92      0.83       902
+           1       0.58      0.27      0.37       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.59      0.60      1269
+weighted avg       0.70      0.73      0.70      1269
+
+Acc : 0.7320724980299448	 F1: 0.3680297397769517
+
+epochs : 8
+ [[724  61]
+ [107 700]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90       785
+           1       0.92      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8944723618090452	 F1: 0.8928571428571428
+
+epochs : 8
+ [[635  92]
+ [ 70 230]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.90      0.87      0.89       727
+           1       0.71      0.77      0.74       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.82      0.81      1027
+weighted avg       0.85      0.84      0.84      1027
+
+Acc : 0.8422590068159689	 F1: 0.7395498392282959
+
+epochs : 8
+ [[800 102]
+ [226 141]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.78      0.89      0.83       902
+           1       0.58      0.38      0.46       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.64      0.65      1269
+weighted avg       0.72      0.74      0.72      1269
+
+Acc : 0.7415287628053585	 F1: 0.4622950819672131
+
+epochs : 9
+ [[718  67]
+ [ 98 709]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.90       785
+           1       0.91      0.88      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8963567839195979	 F1: 0.8957675300063171
+
+epochs : 9
+ [[611 116]
+ [ 57 243]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.91      0.84      0.88       727
+           1       0.68      0.81      0.74       300
+
+    accuracy                           0.83      1027
+   macro avg       0.80      0.83      0.81      1027
+weighted avg       0.85      0.83      0.84      1027
+
+Acc : 0.8315481986368062	 F1: 0.7374810318664644
+
+epochs : 9
+ [[820  82]
+ [260 107]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.76      0.91      0.83       902
+           1       0.57      0.29      0.38       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.60      0.61      1269
+weighted avg       0.70      0.73      0.70      1269
+
+Acc : 0.7304964539007093	 F1: 0.38489208633093525
+
+epochs : 10
+ [[710  75]
+ [ 92 715]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.89      0.90      0.89       785
+           1       0.91      0.89      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8951005025125628	 F1: 0.8954289292423293
+
+epochs : 10
+ [[612 115]
+ [ 55 245]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.92      0.84      0.88       727
+           1       0.68      0.82      0.74       300
+
+    accuracy                           0.83      1027
+   macro avg       0.80      0.83      0.81      1027
+weighted avg       0.85      0.83      0.84      1027
+
+Acc : 0.8344693281402142	 F1: 0.7424242424242424
+
+epochs : 10
+ [[787 115]
+ [244 123]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.76      0.87      0.81       902
+           1       0.52      0.34      0.41       367
+
+    accuracy                           0.72      1269
+   macro avg       0.64      0.60      0.61      1269
+weighted avg       0.69      0.72      0.70      1269
+
+Acc : 0.7171000788022065	 F1: 0.4066115702479339
+
+epochs : 11
+ [[715  70]
+ [132 675]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.84      0.91      0.88       785
+           1       0.91      0.84      0.87       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8731155778894473	 F1: 0.8698453608247424
+
+epochs : 11
+ [[641  86]
+ [ 76 224]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.89      0.88      0.89       727
+           1       0.72      0.75      0.73       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.81      0.81      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8422590068159689	 F1: 0.7344262295081967
+
+epochs : 11
+ [[793 109]
+ [216 151]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.79      0.88      0.83       902
+           1       0.58      0.41      0.48       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.65      0.66      1269
+weighted avg       0.73      0.74      0.73      1269
+
+Acc : 0.7438928289992119	 F1: 0.48165869218500795
+
+epochs : 12
+ [[694  91]
+ [ 96 711]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88       785
+           1       0.89      0.88      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.882537688442211	 F1: 0.8837787445618397
+
+epochs : 12
+ [[576 151]
+ [ 47 253]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.92      0.79      0.85       727
+           1       0.63      0.84      0.72       300
+
+    accuracy                           0.81      1027
+   macro avg       0.78      0.82      0.79      1027
+weighted avg       0.84      0.81      0.81      1027
+
+Acc : 0.807205452775073	 F1: 0.71875
+
+epochs : 12
+ [[720 182]
+ [155 212]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.82      0.80      0.81       902
+           1       0.54      0.58      0.56       367
+
+    accuracy                           0.73      1269
+   macro avg       0.68      0.69      0.68      1269
+weighted avg       0.74      0.73      0.74      1269
+
+Acc : 0.7344365642237982	 F1: 0.557161629434954
+
+epochs : 13
+ [[708  77]
+ [ 94 713]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       785
+           1       0.90      0.88      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8925879396984925	 F1: 0.8929242329367565
+
+epochs : 13
+ [[587 140]
+ [ 57 243]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.91      0.81      0.86       727
+           1       0.63      0.81      0.71       300
+
+    accuracy                           0.81      1027
+   macro avg       0.77      0.81      0.78      1027
+weighted avg       0.83      0.81      0.81      1027
+
+Acc : 0.8081791626095424	 F1: 0.7115666178623719
+
+epochs : 13
+ [[743 159]
+ [184 183]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.80      0.82      0.81       902
+           1       0.54      0.50      0.52       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.66      0.66      1269
+weighted avg       0.72      0.73      0.73      1269
+
+Acc : 0.7297084318360915	 F1: 0.5162200282087447
+
+epochs : 14
+ [[741  44]
+ [136 671]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.84      0.94      0.89       785
+           1       0.94      0.83      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8869346733668342	 F1: 0.8817345597897503
+
+epochs : 14
+ [[648  79]
+ [ 87 213]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89       727
+           1       0.73      0.71      0.72       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.80      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8383641674780915	 F1: 0.7195945945945945
+
+epochs : 14
+ [[815  87]
+ [244 123]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.77      0.90      0.83       902
+           1       0.59      0.34      0.43       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.62      0.63      1269
+weighted avg       0.72      0.74      0.71      1269
+
+Acc : 0.7391646966115051	 F1: 0.42634315424610053
+
+epochs : 15
+ [[721  64]
+ [133 674]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.84      0.92      0.88       785
+           1       0.91      0.84      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8762562814070352	 F1: 0.8724919093851132
+
+epochs : 15
+ [[627 100]
+ [ 83 217]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.88      0.86      0.87       727
+           1       0.68      0.72      0.70       300
+
+    accuracy                           0.82      1027
+   macro avg       0.78      0.79      0.79      1027
+weighted avg       0.83      0.82      0.82      1027
+
+Acc : 0.8218111002921129	 F1: 0.7034035656401946
+
+epochs : 15
+ [[834  68]
+ [255 112]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.77      0.92      0.84       902
+           1       0.62      0.31      0.41       367
+
+    accuracy                           0.75      1269
+   macro avg       0.69      0.61      0.62      1269
+weighted avg       0.72      0.75      0.71      1269
+
+Acc : 0.7454688731284476	 F1: 0.4095063985374771
+
+epochs : 16
+ [[732  53]
+ [142 665]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.84      0.93      0.88       785
+           1       0.93      0.82      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8775125628140703	 F1: 0.8721311475409835
+
+epochs : 16
+ [[646  81]
+ [ 76 224]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       727
+           1       0.73      0.75      0.74       300
+
+    accuracy                           0.85      1027
+   macro avg       0.81      0.82      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8471275559883155	 F1: 0.740495867768595
+
+epochs : 16
+ [[805  97]
+ [245 122]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.77      0.89      0.82       902
+           1       0.56      0.33      0.42       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.61      0.62      1269
+weighted avg       0.71      0.73      0.71      1269
+
+Acc : 0.7304964539007093	 F1: 0.416382252559727
+
+epochs : 17
+ [[671 114]
+ [ 67 740]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.91      0.85      0.88       785
+           1       0.87      0.92      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8863065326633166	 F1: 0.8910295003010235
+
+epochs : 17
+ [[529 198]
+ [ 36 264]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.94      0.73      0.82       727
+           1       0.57      0.88      0.69       300
+
+    accuracy                           0.77      1027
+   macro avg       0.75      0.80      0.76      1027
+weighted avg       0.83      0.77      0.78      1027
+
+Acc : 0.7721518987341772	 F1: 0.6929133858267715
+
+epochs : 17
+ [[790 112]
+ [235 132]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.77      0.88      0.82       902
+           1       0.54      0.36      0.43       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.62      0.63      1269
+weighted avg       0.70      0.73      0.71      1269
+
+Acc : 0.7265563435776202	 F1: 0.4320785597381342
+
+epochs : 18
+ [[705  80]
+ [ 98 709]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       785
+           1       0.90      0.88      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8881909547738693	 F1: 0.8884711779448622
+
+epochs : 18
+ [[576 151]
+ [ 55 245]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.91      0.79      0.85       727
+           1       0.62      0.82      0.70       300
+
+    accuracy                           0.80      1027
+   macro avg       0.77      0.80      0.78      1027
+weighted avg       0.83      0.80      0.81      1027
+
+Acc : 0.7994157740993184	 F1: 0.7040229885057472
+
+epochs : 18
+ [[745 157]
+ [201 166]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.79      0.83      0.81       902
+           1       0.51      0.45      0.48       367
+
+    accuracy                           0.72      1269
+   macro avg       0.65      0.64      0.64      1269
+weighted avg       0.71      0.72      0.71      1269
+
+Acc : 0.7178881008668243	 F1: 0.4811594202898551
+
+epochs : 19
+ [[740  45]
+ [107 700]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.87      0.94      0.91       785
+           1       0.94      0.87      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.91      0.91      0.90      1592
+weighted avg       0.91      0.90      0.90      1592
+
+Acc : 0.9045226130653267	 F1: 0.9020618556701031
+
+epochs : 19
+ [[653  74]
+ [ 68 232]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       727
+           1       0.76      0.77      0.77       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.84      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8617332035053554	 F1: 0.7656765676567656
+
+epochs : 19
+ [[789 113]
+ [227 140]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.78      0.87      0.82       902
+           1       0.55      0.38      0.45       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.63      0.64      1269
+weighted avg       0.71      0.73      0.72      1269
+
+Acc : 0.7320724980299448	 F1: 0.4516129032258065
+
+epochs : 20
+ [[737  48]
+ [122 685]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       785
+           1       0.93      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8932160804020101	 F1: 0.8896103896103896
+
+epochs : 20
+ [[670  57]
+ [ 91 209]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       727
+           1       0.79      0.70      0.74       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.81      0.82      1027
+weighted avg       0.85      0.86      0.85      1027
+
+Acc : 0.8558909444985394	 F1: 0.7385159010600707
+
+epochs : 20
+ [[798 104]
+ [240 127]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.77      0.88      0.82       902
+           1       0.55      0.35      0.42       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.62      0.62      1269
+weighted avg       0.71      0.73      0.71      1269
+
+Acc : 0.7289204097714737	 F1: 0.42474916387959866
+
+epochs : 21
+ [[734  51]
+ [122 685]]
+epochs : 21
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.89       785
+           1       0.93      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8878807517822425
+
+epochs : 21
+ [[678  49]
+ [101 199]]
+epochs : 21
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       727
+           1       0.80      0.66      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8539435248296008	 F1: 0.7262773722627737
+
+epochs : 21
+ [[732 170]
+ [180 187]]
+epochs : 21
+               precision    recall  f1-score   support
+
+           0       0.80      0.81      0.81       902
+           1       0.52      0.51      0.52       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.66      0.66      1269
+weighted avg       0.72      0.72      0.72      1269
+
+Acc : 0.7241922773837668	 F1: 0.5165745856353591
+
+epochs : 22
+ [[743  42]
+ [131 676]]
+epochs : 22
+               precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       785
+           1       0.94      0.84      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8865573770491804
+
+epochs : 22
+ [[694  33]
+ [103 197]]
+epochs : 22
+               precision    recall  f1-score   support
+
+           0       0.87      0.95      0.91       727
+           1       0.86      0.66      0.74       300
+
+    accuracy                           0.87      1027
+   macro avg       0.86      0.81      0.83      1027
+weighted avg       0.87      0.87      0.86      1027
+
+Acc : 0.8675754625121713	 F1: 0.7433962264150943
+
+epochs : 22
+ [[733 169]
+ [184 183]]
+epochs : 22
+               precision    recall  f1-score   support
+
+           0       0.80      0.81      0.81       902
+           1       0.52      0.50      0.51       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.66      0.66      1269
+weighted avg       0.72      0.72      0.72      1269
+
+Acc : 0.7218282111899134	 F1: 0.5090403337969401
+
+epochs : 23
+ [[750  35]
+ [163 644]]
+epochs : 23
+               precision    recall  f1-score   support
+
+           0       0.82      0.96      0.88       785
+           1       0.95      0.80      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.89      0.88      0.87      1592
+
+Acc : 0.8756281407035176	 F1: 0.8667563930013459
+
+epochs : 23
+ [[687  40]
+ [125 175]]
+epochs : 23
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.89       727
+           1       0.81      0.58      0.68       300
+
+    accuracy                           0.84      1027
+   macro avg       0.83      0.76      0.79      1027
+weighted avg       0.84      0.84      0.83      1027
+
+Acc : 0.8393378773125608	 F1: 0.6796116504854369
+
+epochs : 23
+ [[824  78]
+ [251 116]]
+epochs : 23
+               precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       902
+           1       0.60      0.32      0.41       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.61      0.62      1269
+weighted avg       0.72      0.74      0.71      1269
+
+Acc : 0.7407407407407407	 F1: 0.41354723707664887
+
+epochs : 24
+ [[734  51]
+ [121 686]]
+epochs : 24
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       785
+           1       0.93      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8919597989949749	 F1: 0.88860103626943
+
+epochs : 24
+ [[669  58]
+ [ 98 202]]
+epochs : 24
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90       727
+           1       0.78      0.67      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.84      0.85      0.84      1027
+
+Acc : 0.8481012658227848	 F1: 0.7214285714285714
+
+epochs : 24
+ [[780 122]
+ [230 137]]
+epochs : 24
+               precision    recall  f1-score   support
+
+           0       0.77      0.86      0.82       902
+           1       0.53      0.37      0.44       367
+
+    accuracy                           0.72      1269
+   macro avg       0.65      0.62      0.63      1269
+weighted avg       0.70      0.72      0.71      1269
+
+Acc : 0.7226162332545312	 F1: 0.43769968051118213
+
+epochs : 25
+ [[727  58]
+ [109 698]]
+epochs : 25
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.92      0.86      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8951005025125628	 F1: 0.893154190658989
+
+epochs : 25
+ [[663  64]
+ [ 83 217]]
+epochs : 25
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       727
+           1       0.77      0.72      0.75       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.82      0.82      1027
+weighted avg       0.85      0.86      0.86      1027
+
+Acc : 0.8568646543330087	 F1: 0.7469879518072289
+
+epochs : 25
+ [[695 207]
+ [173 194]]
+epochs : 25
+               precision    recall  f1-score   support
+
+           0       0.80      0.77      0.79       902
+           1       0.48      0.53      0.51       367
+
+    accuracy                           0.70      1269
+   macro avg       0.64      0.65      0.65      1269
+weighted avg       0.71      0.70      0.70      1269
+
+Acc : 0.7005516154452325	 F1: 0.5052083333333334
+
+epochs : 26
+ [[743  42]
+ [145 662]]
+epochs : 26
+               precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89       785
+           1       0.94      0.82      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.882537688442211	 F1: 0.8762409000661814
+
+epochs : 26
+ [[682  45]
+ [108 192]]
+epochs : 26
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       727
+           1       0.81      0.64      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.79      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8510223953261928	 F1: 0.7150837988826816
+
+epochs : 26
+ [[818  84]
+ [243 124]]
+epochs : 26
+               precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       902
+           1       0.60      0.34      0.43       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.62      0.63      1269
+weighted avg       0.72      0.74      0.72      1269
+
+Acc : 0.7423167848699763	 F1: 0.43130434782608695
+
+epochs : 27
+ [[739  46]
+ [142 665]]
+epochs : 27
+               precision    recall  f1-score   support
+
+           0       0.84      0.94      0.89       785
+           1       0.94      0.82      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8819095477386935	 F1: 0.8761528326745718
+
+epochs : 27
+ [[661  66]
+ [ 96 204]]
+epochs : 27
+               precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       727
+           1       0.76      0.68      0.72       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.79      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8422590068159689	 F1: 0.7157894736842104
+
+epochs : 27
+ [[724 178]
+ [190 177]]
+epochs : 27
+               precision    recall  f1-score   support
+
+           0       0.79      0.80      0.80       902
+           1       0.50      0.48      0.49       367
+
+    accuracy                           0.71      1269
+   macro avg       0.65      0.64      0.64      1269
+weighted avg       0.71      0.71      0.71      1269
+
+Acc : 0.7100078802206462	 F1: 0.4903047091412743
+
+epochs : 28
+ [[748  37]
+ [148 659]]
+epochs : 28
+               precision    recall  f1-score   support
+
+           0       0.83      0.95      0.89       785
+           1       0.95      0.82      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8837939698492462	 F1: 0.8769128409846972
+
+epochs : 28
+ [[679  48]
+ [101 199]]
+epochs : 28
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       727
+           1       0.81      0.66      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8549172346640701	 F1: 0.7276051188299817
+
+epochs : 28
+ [[824  78]
+ [268  99]]
+epochs : 28
+               precision    recall  f1-score   support
+
+           0       0.75      0.91      0.83       902
+           1       0.56      0.27      0.36       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.59      0.60      1269
+weighted avg       0.70      0.73      0.69      1269
+
+Acc : 0.727344365642238	 F1: 0.36397058823529405
+
+epochs : 29
+ [[735  50]
+ [128 679]]
+epochs : 29
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.89       785
+           1       0.93      0.84      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8881909547738693	 F1: 0.8841145833333334
+
+epochs : 29
+ [[650  77]
+ [ 84 216]]
+epochs : 29
+               precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       727
+           1       0.74      0.72      0.73       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.81      0.81      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8432327166504382	 F1: 0.7284991568296795
+
+epochs : 29
+ [[723 179]
+ [193 174]]
+epochs : 29
+               precision    recall  f1-score   support
+
+           0       0.79      0.80      0.80       902
+           1       0.49      0.47      0.48       367
+
+    accuracy                           0.71      1269
+   macro avg       0.64      0.64      0.64      1269
+weighted avg       0.70      0.71      0.71      1269
+
+Acc : 0.706855791962175	 F1: 0.4833333333333334
+
+epochs : 30
+ [[729  56]
+ [111 696]]
+epochs : 30
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.93      0.86      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8951005025125628	 F1: 0.8928800513149455
+
+epochs : 30
+ [[638  89]
+ [ 76 224]]
+epochs : 30
+               precision    recall  f1-score   support
+
+           0       0.89      0.88      0.89       727
+           1       0.72      0.75      0.73       300
+
+    accuracy                           0.84      1027
+   macro avg       0.80      0.81      0.81      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8393378773125608	 F1: 0.7308319738988581
+
+epochs : 30
+ [[728 174]
+ [182 185]]
+epochs : 30
+               precision    recall  f1-score   support
+
+           0       0.80      0.81      0.80       902
+           1       0.52      0.50      0.51       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.66      0.66      1269
+weighted avg       0.72      0.72      0.72      1269
+
+Acc : 0.7194641449960599	 F1: 0.5096418732782368
+epochs : 1
+ [[ 17 563   0]
+ [  4 165   0]
+ [  0  58   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.81      0.03      0.06       580
+           1       0.21      0.98      0.35       169
+           2       0.00      0.00      0.00        58
+
+    accuracy                           0.23       807
+   macro avg       0.34      0.34      0.13       807
+weighted avg       0.63      0.23      0.11       807
+
+Acc : 0.2255266418835192	 F1: 0.13404070586253858
+
+epochs : 1
+ [[ 28 149   0]
+ [  4  62   0]
+ [  5  52   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.76      0.16      0.26       177
+           1       0.24      0.94      0.38        66
+           2       0.00      0.00      0.00        57
+
+    accuracy                           0.30       300
+   macro avg       0.33      0.37      0.21       300
+weighted avg       0.50      0.30      0.24       300
+
+Acc : 0.3	 F1: 0.2128606463464288
+
+epochs : 1
+ [[  1  62   0]
+ [  0 191   0]
+ [  0 113   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       1.00      0.02      0.03        63
+           1       0.52      1.00      0.69       191
+           2       0.00      0.00      0.00       113
+
+    accuracy                           0.52       367
+   macro avg       0.51      0.34      0.24       367
+weighted avg       0.44      0.52      0.36       367
+
+Acc : 0.5231607629427792	 F1: 0.23902229204069422
+
+epochs : 1
+ [[773  12]
+ [348 459]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.69      0.98      0.81       785
+           1       0.97      0.57      0.72       807
+
+    accuracy                           0.77      1592
+   macro avg       0.83      0.78      0.76      1592
+weighted avg       0.83      0.77      0.76      1592
+
+Acc : 0.7738693467336684	 F1: 0.7647163146771501
+
+epochs : 1
+ [[716  11]
+ [191 109]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.79      0.98      0.88       727
+           1       0.91      0.36      0.52       300
+
+    accuracy                           0.80      1027
+   macro avg       0.85      0.67      0.70      1027
+weighted avg       0.82      0.80      0.77      1027
+
+Acc : 0.8033106134371957	 F1: 0.6977123040158536
+
+epochs : 1
+ [[901   1]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.7100078802206462	 F1: 0.41520737327188945
+
+epochs : 2
+ [[759  26]
+ [195 612]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.80      0.97      0.87       785
+           1       0.96      0.76      0.85       807
+
+    accuracy                           0.86      1592
+   macro avg       0.88      0.86      0.86      1592
+weighted avg       0.88      0.86      0.86      1592
+
+Acc : 0.8611809045226131	 F1: 0.8599871460947806
+
+epochs : 2
+ [[677  50]
+ [109 191]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89       727
+           1       0.79      0.64      0.71       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.78      0.80      1027
+weighted avg       0.84      0.85      0.84      1027
+
+Acc : 0.8451801363193768	 F1: 0.8005052942275999
+
+epochs : 2
+ [[896   6]
+ [354  13]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.72      0.99      0.83       902
+           1       0.68      0.04      0.07       367
+
+    accuracy                           0.72      1269
+   macro avg       0.70      0.51      0.45      1269
+weighted avg       0.71      0.72      0.61      1269
+
+Acc : 0.7163120567375887	 F1: 0.45003563380010403
+
+epochs : 3
+ [[752  33]
+ [168 639]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.82      0.96      0.88       785
+           1       0.95      0.79      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.89      0.87      0.87      1592
+
+Acc : 0.8737437185929648	 F1: 0.8731044000166556
+
+epochs : 3
+ [[688  39]
+ [121 179]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       727
+           1       0.82      0.60      0.69       300
+
+    accuracy                           0.84      1027
+   macro avg       0.84      0.77      0.79      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8442064264849075	 F1: 0.7934765122265122
+
+epochs : 3
+ [[852  50]
+ [297  70]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83       902
+           1       0.58      0.19      0.29       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.57      0.56      1269
+weighted avg       0.70      0.73      0.67      1269
+
+Acc : 0.7265563435776202	 F1: 0.5591442848032262
+
+epochs : 4
+ [[763  22]
+ [197 610]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.79      0.97      0.87       785
+           1       0.97      0.76      0.85       807
+
+    accuracy                           0.86      1592
+   macro avg       0.88      0.86      0.86      1592
+weighted avg       0.88      0.86      0.86      1592
+
+Acc : 0.8624371859296482	 F1: 0.8611547735911798
+
+epochs : 4
+ [[711  16]
+ [142 158]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.83      0.98      0.90       727
+           1       0.91      0.53      0.67       300
+
+    accuracy                           0.85      1027
+   macro avg       0.87      0.75      0.78      1027
+weighted avg       0.86      0.85      0.83      1027
+
+Acc : 0.8461538461538461	 F1: 0.7833333333333334
+
+epochs : 4
+ [[899   3]
+ [356  11]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.72      1.00      0.83       902
+           1       0.79      0.03      0.06       367
+
+    accuracy                           0.72      1269
+   macro avg       0.75      0.51      0.45      1269
+weighted avg       0.74      0.72      0.61      1269
+
+Acc : 0.7171000788022065	 F1: 0.4456539594581276
+
+epochs : 5
+ [[742  43]
+ [130 677]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       785
+           1       0.94      0.84      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8911502035973677
+
+epochs : 5
+ [[656  71]
+ [ 75 225]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90       727
+           1       0.76      0.75      0.76       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.83      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.857838364167478	 F1: 0.8274481914178657
+
+epochs : 5
+ [[811  91]
+ [245 122]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.77      0.90      0.83       902
+           1       0.57      0.33      0.42       367
+
+    accuracy                           0.74      1269
+   macro avg       0.67      0.62      0.62      1269
+weighted avg       0.71      0.74      0.71      1269
+
+Acc : 0.735224586288416	 F1: 0.6245429889753795
+
+epochs : 6
+ [[687  98]
+ [176 631]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.80      0.88      0.83       785
+           1       0.87      0.78      0.82       807
+
+    accuracy                           0.83      1592
+   macro avg       0.83      0.83      0.83      1592
+weighted avg       0.83      0.83      0.83      1592
+
+Acc : 0.8278894472361809	 F1: 0.8276762237055015
+
+epochs : 6
+ [[574 153]
+ [ 69 231]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.89      0.79      0.84       727
+           1       0.60      0.77      0.68       300
+
+    accuracy                           0.78      1027
+   macro avg       0.75      0.78      0.76      1027
+weighted avg       0.81      0.78      0.79      1027
+
+Acc : 0.7838364167478091	 F1: 0.756697400435395
+
+epochs : 6
+ [[892  10]
+ [357  10]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.71      0.99      0.83       902
+           1       0.50      0.03      0.05       367
+
+    accuracy                           0.71      1269
+   macro avg       0.61      0.51      0.44      1269
+weighted avg       0.65      0.71      0.60      1269
+
+Acc : 0.710795902285264	 F1: 0.4405306347507379
+
+epochs : 7
+ [[726  59]
+ [115 692]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89       785
+           1       0.92      0.86      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8907035175879398	 F1: 0.890653643378539
+
+epochs : 7
+ [[659  68]
+ [ 90 210]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89       727
+           1       0.76      0.70      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.84      0.85      0.84      1027
+
+Acc : 0.8461538461538461	 F1: 0.8097987640776061
+
+epochs : 7
+ [[883  19]
+ [357  10]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.71      0.98      0.82       902
+           1       0.34      0.03      0.05       367
+
+    accuracy                           0.70      1269
+   macro avg       0.53      0.50      0.44      1269
+weighted avg       0.61      0.70      0.60      1269
+
+Acc : 0.7037037037037037	 F1: 0.43748408454290805
+
+epochs : 8
+ [[721  64]
+ [113 694]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89       785
+           1       0.92      0.86      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8888190954773869	 F1: 0.8887871067810958
+
+epochs : 8
+ [[663  64]
+ [ 99 201]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       727
+           1       0.76      0.67      0.71       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.79      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8412852969814996	 F1: 0.8010174910999246
+
+epochs : 8
+ [[895   7]
+ [359   8]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.71      0.99      0.83       902
+           1       0.53      0.02      0.04       367
+
+    accuracy                           0.71      1269
+   macro avg       0.62      0.51      0.44      1269
+weighted avg       0.66      0.71      0.60      1269
+
+Acc : 0.7115839243498818	 F1: 0.43606300206898563
+
+epochs : 9
+ [[700  85]
+ [107 700]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.87      0.89      0.88       785
+           1       0.89      0.87      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8793969849246231	 F1: 0.8793969849246231
+
+epochs : 9
+ [[605 122]
+ [ 69 231]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.90      0.83      0.86       727
+           1       0.65      0.77      0.71       300
+
+    accuracy                           0.81      1027
+   macro avg       0.78      0.80      0.79      1027
+weighted avg       0.83      0.81      0.82      1027
+
+Acc : 0.8140214216163584	 F1: 0.7855863182391051
+
+epochs : 9
+ [[740 162]
+ [225 142]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.77      0.82      0.79       902
+           1       0.47      0.39      0.42       367
+
+    accuracy                           0.70      1269
+   macro avg       0.62      0.60      0.61      1269
+weighted avg       0.68      0.70      0.69      1269
+
+Acc : 0.6950354609929078	 F1: 0.607982234383843
+
+epochs : 10
+ [[738  47]
+ [140 667]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.84      0.94      0.89       785
+           1       0.93      0.83      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.882537688442211	 F1: 0.882303592558461
+
+epochs : 10
+ [[658  69]
+ [ 93 207]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89       727
+           1       0.75      0.69      0.72       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.80      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8422590068159689	 F1: 0.8045712110960758
+
+epochs : 10
+ [[847  55]
+ [297  70]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83       902
+           1       0.56      0.19      0.28       367
+
+    accuracy                           0.72      1269
+   macro avg       0.65      0.56      0.56      1269
+weighted avg       0.69      0.72      0.67      1269
+
+Acc : 0.7226162332545312	 F1: 0.5562549173878836
+
+epochs : 11
+ [[675 110]
+ [ 84 723]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.89      0.86      0.87       785
+           1       0.87      0.90      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.878140703517588	 F1: 0.8780298243396942
+
+epochs : 11
+ [[549 178]
+ [ 46 254]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.92      0.76      0.83       727
+           1       0.59      0.85      0.69       300
+
+    accuracy                           0.78      1027
+   macro avg       0.76      0.80      0.76      1027
+weighted avg       0.82      0.78      0.79      1027
+
+Acc : 0.7818889970788705	 F1: 0.7622744144903815
+
+epochs : 11
+ [[858  44]
+ [320  47]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.73      0.95      0.82       902
+           1       0.52      0.13      0.21       367
+
+    accuracy                           0.71      1269
+   macro avg       0.62      0.54      0.52      1269
+weighted avg       0.67      0.71      0.65      1269
+
+Acc : 0.7131599684791174	 F1: 0.5151200873362445
+
+epochs : 12
+ [[733  52]
+ [109 698]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.93      0.86      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8988693467336684	 F1: 0.8988204429191246
+
+epochs : 12
+ [[648  79]
+ [ 81 219]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       727
+           1       0.73      0.73      0.73       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.81      0.81      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8442064264849075	 F1: 0.8112756808408981
+
+epochs : 12
+ [[842  60]
+ [315  52]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.73      0.93      0.82       902
+           1       0.46      0.14      0.22       367
+
+    accuracy                           0.70      1269
+   macro avg       0.60      0.54      0.52      1269
+weighted avg       0.65      0.70      0.64      1269
+
+Acc : 0.7044917257683215	 F1: 0.5174958758381402
+
+epochs : 13
+ [[721  64]
+ [104 703]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90       785
+           1       0.92      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8944723618090452	 F1: 0.8944588696757085
+
+epochs : 13
+ [[632  95]
+ [ 77 223]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88       727
+           1       0.70      0.74      0.72       300
+
+    accuracy                           0.83      1027
+   macro avg       0.80      0.81      0.80      1027
+weighted avg       0.84      0.83      0.83      1027
+
+Acc : 0.8325219084712756	 F1: 0.8009528445610334
+
+epochs : 13
+ [[851  51]
+ [311  56]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.73      0.94      0.82       902
+           1       0.52      0.15      0.24       367
+
+    accuracy                           0.71      1269
+   macro avg       0.63      0.55      0.53      1269
+weighted avg       0.67      0.71      0.65      1269
+
+Acc : 0.7147360126083531	 F1: 0.5304496614659994
+
+epochs : 14
+ [[703  82]
+ [106 701]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.87      0.90      0.88       785
+           1       0.90      0.87      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8819095477386935	 F1: 0.8819093613629727
+
+epochs : 14
+ [[629  98]
+ [ 77 223]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88       727
+           1       0.69      0.74      0.72       300
+
+    accuracy                           0.83      1027
+   macro avg       0.79      0.80      0.80      1027
+weighted avg       0.83      0.83      0.83      1027
+
+Acc : 0.8296007789678675	 F1: 0.7980375168700058
+
+epochs : 14
+ [[746 156]
+ [197 170]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.79      0.83      0.81       902
+           1       0.52      0.46      0.49       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.65      0.65      1269
+weighted avg       0.71      0.72      0.72      1269
+
+Acc : 0.7218282111899134	 F1: 0.6496462886706789
+
+epochs : 15
+ [[757  28]
+ [200 607]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.79      0.96      0.87       785
+           1       0.96      0.75      0.84       807
+
+    accuracy                           0.86      1592
+   macro avg       0.87      0.86      0.86      1592
+weighted avg       0.87      0.86      0.86      1592
+
+Acc : 0.8567839195979899	 F1: 0.8555011138694663
+
+epochs : 15
+ [[689  38]
+ [130 170]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89       727
+           1       0.82      0.57      0.67       300
+
+    accuracy                           0.84      1027
+   macro avg       0.83      0.76      0.78      1027
+weighted avg       0.83      0.84      0.83      1027
+
+Acc : 0.8364167478091529	 F1: 0.7803119047376517
+
+epochs : 15
+ [[884  18]
+ [333  34]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.73      0.98      0.83       902
+           1       0.65      0.09      0.16       367
+
+    accuracy                           0.72      1269
+   macro avg       0.69      0.54      0.50      1269
+weighted avg       0.71      0.72      0.64      1269
+
+Acc : 0.723404255319149	 F1: 0.4983234988359665
+
+epochs : 16
+ [[739  46]
+ [195 612]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.79      0.94      0.86       785
+           1       0.93      0.76      0.84       807
+
+    accuracy                           0.85      1592
+   macro avg       0.86      0.85      0.85      1592
+weighted avg       0.86      0.85      0.85      1592
+
+Acc : 0.8486180904522613	 F1: 0.847648545566813
+
+epochs : 16
+ [[665  62]
+ [117 183]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.85      0.91      0.88       727
+           1       0.75      0.61      0.67       300
+
+    accuracy                           0.83      1027
+   macro avg       0.80      0.76      0.78      1027
+weighted avg       0.82      0.83      0.82      1027
+
+Acc : 0.8257059396299903	 F1: 0.776469014658228
+
+epochs : 16
+ [[748 154]
+ [183 184]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.80      0.83      0.82       902
+           1       0.54      0.50      0.52       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.67      0.67      1269
+weighted avg       0.73      0.73      0.73      1269
+
+Acc : 0.7344365642237982	 F1: 0.6690671031096562
+
+epochs : 17
+ [[731  54]
+ [106 701]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.93      0.87      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8994974874371859	 F1: 0.8994617858479201
+
+epochs : 17
+ [[671  56]
+ [ 94 206]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       727
+           1       0.79      0.69      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.80      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8539435248296008	 F1: 0.8162799461898811
+
+epochs : 17
+ [[813  89]
+ [238 129]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.77      0.90      0.83       902
+           1       0.59      0.35      0.44       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.63      0.64      1269
+weighted avg       0.72      0.74      0.72      1269
+
+Acc : 0.7423167848699763	 F1: 0.6367954626019141
+
+epochs : 18
+ [[749  36]
+ [154 653]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.83      0.95      0.89       785
+           1       0.95      0.81      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8806532663316583	 F1: 0.880217705350128
+
+epochs : 18
+ [[692  35]
+ [117 183]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.86      0.95      0.90       727
+           1       0.84      0.61      0.71       300
+
+    accuracy                           0.85      1027
+   macro avg       0.85      0.78      0.80      1027
+weighted avg       0.85      0.85      0.84      1027
+
+Acc : 0.8519961051606622	 F1: 0.8038026866151866
+
+epochs : 18
+ [[793 109]
+ [210 157]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.79      0.88      0.83       902
+           1       0.59      0.43      0.50       367
+
+    accuracy                           0.75      1269
+   macro avg       0.69      0.65      0.66      1269
+weighted avg       0.73      0.75      0.74      1269
+
+Acc : 0.7486209613869188	 F1: 0.6642982423405605
+
+epochs : 19
+ [[751  34]
+ [172 635]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88       785
+           1       0.95      0.79      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8706030150753769	 F1: 0.8699123525193098
+
+epochs : 19
+ [[705  22]
+ [144 156]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.83      0.97      0.89       727
+           1       0.88      0.52      0.65       300
+
+    accuracy                           0.84      1027
+   macro avg       0.85      0.74      0.77      1027
+weighted avg       0.84      0.84      0.82      1027
+
+Acc : 0.8383641674780915	 F1: 0.773694858016694
+
+epochs : 19
+ [[751 151]
+ [192 175]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.80      0.83      0.81       902
+           1       0.54      0.48      0.51       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.65      0.66      1269
+weighted avg       0.72      0.73      0.72      1269
+
+Acc : 0.7297084318360915	 F1: 0.6595713229859571
+
+epochs : 20
+ [[739  46]
+ [131 676]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.89       785
+           1       0.94      0.84      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8888190954773869	 F1: 0.8886447118053977
+
+epochs : 20
+ [[690  37]
+ [116 184]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.86      0.95      0.90       727
+           1       0.83      0.61      0.71       300
+
+    accuracy                           0.85      1027
+   macro avg       0.84      0.78      0.80      1027
+weighted avg       0.85      0.85      0.84      1027
+
+Acc : 0.8510223953261928	 F1: 0.8032648339224207
+
+epochs : 20
+ [[796 106]
+ [232 135]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.77      0.88      0.82       902
+           1       0.56      0.37      0.44       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.63      0.63      1269
+weighted avg       0.71      0.73      0.71      1269
+
+Acc : 0.7336485421591804	 F1: 0.6344747068448323
+
+epochs : 1
+ [[715  70]
+ [103 704]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       785
+           1       0.91      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8913264700160949
+
+epochs : 1
+ [[666  61]
+ [ 94 206]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       727
+           1       0.77      0.69      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8490749756572541	 F1: 0.8111973375367233
+
+epochs : 1
+ [[768 134]
+ [203 164]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.79      0.85      0.82       902
+           1       0.55      0.45      0.49       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.65      0.66      1269
+weighted avg       0.72      0.73      0.73      1269
+
+Acc : 0.7344365642237982	 F1: 0.6566539145514614
+
+epochs : 2
+ [[723  62]
+ [107 700]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90       785
+           1       0.92      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8938442211055276	 F1: 0.8938220593661637
+
+epochs : 2
+ [[676  51]
+ [103 197]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       727
+           1       0.79      0.66      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.79      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8500486854917235	 F1: 0.8083602330338016
+
+epochs : 2
+ [[772 130]
+ [209 158]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.79      0.86      0.82       902
+           1       0.55      0.43      0.48       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.64      0.65      1269
+weighted avg       0.72      0.73      0.72      1269
+
+Acc : 0.7328605200945626	 F1: 0.6512054420224346
+
+epochs : 3
+ [[713  72]
+ [ 88 719]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       785
+           1       0.91      0.89      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8994974874371859	 F1: 0.8994960598604498
+
+epochs : 3
+ [[648  79]
+ [ 73 227]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.90      0.89      0.90       727
+           1       0.74      0.76      0.75       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.82      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8519961051606622	 F1: 0.8221012709005708
+
+epochs : 3
+ [[729 173]
+ [169 198]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.81      0.81      0.81       902
+           1       0.53      0.54      0.54       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.67      0.67      1269
+weighted avg       0.73      0.73      0.73      1269
+
+Acc : 0.7304964539007093	 F1: 0.6732926829268293
+
+epochs : 4
+ [[724  61]
+ [100 707]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       785
+           1       0.92      0.88      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8988693467336684	 F1: 0.8988578136869001
+
+epochs : 4
+ [[676  51]
+ [ 91 209]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.88      0.93      0.90       727
+           1       0.80      0.70      0.75       300
+
+    accuracy                           0.86      1027
+   macro avg       0.84      0.81      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8617332035053554	 F1: 0.8256908586727865
+
+epochs : 4
+ [[817  85]
+ [246 121]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.77      0.91      0.83       902
+           1       0.59      0.33      0.42       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.62      0.63      1269
+weighted avg       0.72      0.74      0.71      1269
+
+Acc : 0.7391646966115051	 F1: 0.6269453658926503
+
+epochs : 5
+ [[743  42]
+ [145 662]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89       785
+           1       0.94      0.82      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.882537688442211	 F1: 0.8822328230157566
+
+epochs : 5
+ [[687  40]
+ [132 168]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.84      0.94      0.89       727
+           1       0.81      0.56      0.66       300
+
+    accuracy                           0.83      1027
+   macro avg       0.82      0.75      0.78      1027
+weighted avg       0.83      0.83      0.82      1027
+
+Acc : 0.8325219084712756	 F1: 0.7750812358028338
+
+epochs : 5
+ [[803  99]
+ [233 134]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.78      0.89      0.83       902
+           1       0.58      0.37      0.45       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.63      0.64      1269
+weighted avg       0.72      0.74      0.72      1269
+
+Acc : 0.7383766745468873	 F1: 0.6376780185758514
+
+epochs : 6
+ [[727  58]
+ [107 700]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.92      0.87      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8963567839195979	 F1: 0.8963269639484792
+
+epochs : 6
+ [[663  64]
+ [101 199]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89       727
+           1       0.76      0.66      0.71       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.79      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8393378773125608	 F1: 0.7981315959701369
+
+epochs : 6
+ [[812  90]
+ [253 114]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.76      0.90      0.83       902
+           1       0.56      0.31      0.40       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.61      0.61      1269
+weighted avg       0.70      0.73      0.70      1269
+
+Acc : 0.7297084318360915	 F1: 0.6124611252033332
+
+epochs : 7
+ [[742  43]
+ [119 688]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.86      0.95      0.90       785
+           1       0.94      0.85      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8982412060301508	 F1: 0.8981239936987171
+
+epochs : 7
+ [[659  68]
+ [ 85 215]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       727
+           1       0.76      0.72      0.74       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.81      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8510223953261928	 F1: 0.816776722757765
+
+epochs : 7
+ [[772 130]
+ [209 158]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.79      0.86      0.82       902
+           1       0.55      0.43      0.48       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.64      0.65      1269
+weighted avg       0.72      0.73      0.72      1269
+
+Acc : 0.7328605200945626	 F1: 0.6512054420224346
+
+epochs : 8
+ [[727  58]
+ [122 685]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89       785
+           1       0.92      0.85      0.88       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8869346733668342	 F1: 0.8868559245074427
+
+epochs : 8
+ [[667  60]
+ [ 97 203]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.89       727
+           1       0.77      0.68      0.72       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.84      0.85      0.84      1027
+
+Acc : 0.8471275559883155	 F1: 0.807919154953403
+
+epochs : 8
+ [[747 155]
+ [177 190]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.81      0.83      0.82       902
+           1       0.55      0.52      0.53       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.67      0.68      1269
+weighted avg       0.73      0.74      0.74      1269
+
+Acc : 0.7383766745468873	 F1: 0.6759448416751787
+
+epochs : 9
+ [[742  43]
+ [127 680]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       785
+           1       0.94      0.84      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8932160804020101	 F1: 0.8930538761252184
+
+epochs : 9
+ [[674  53]
+ [ 92 208]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.88      0.93      0.90       727
+           1       0.80      0.69      0.74       300
+
+    accuracy                           0.86      1027
+   macro avg       0.84      0.81      0.82      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8588120740019474	 F1: 0.8222065419969364
+
+epochs : 9
+ [[780 122]
+ [211 156]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.79      0.86      0.82       902
+           1       0.56      0.43      0.48       367
+
+    accuracy                           0.74      1269
+   macro avg       0.67      0.64      0.65      1269
+weighted avg       0.72      0.74      0.73      1269
+
+Acc : 0.7375886524822695	 F1: 0.6539048391257878
+
+epochs : 10
+ [[719  66]
+ [108 699]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.89       785
+           1       0.91      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8907035175879398	 F1: 0.8906862652245563
+
+epochs : 10
+ [[664  63]
+ [ 92 208]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.90       727
+           1       0.77      0.69      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8490749756572541	 F1: 0.8120142703116346
+
+epochs : 10
+ [[804  98]
+ [248 119]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.76      0.89      0.82       902
+           1       0.55      0.32      0.41       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.61      0.62      1269
+weighted avg       0.70      0.73      0.70      1269
+
+Acc : 0.727344365642238	 F1: 0.6152307875660745
+
+epochs : 11
+ [[714  71]
+ [ 99 708]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89       785
+           1       0.91      0.88      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8932160804020101	 F1: 0.8932145636017279
+
+epochs : 11
+ [[657  70]
+ [ 73 227]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90       727
+           1       0.76      0.76      0.76       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.83      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8607594936708861	 F1: 0.8311610672902374
+
+epochs : 11
+ [[732 170]
+ [180 187]]
+epochs : 11
+               precision    recall  f1-score   support
+
+           0       0.80      0.81      0.81       902
+           1       0.52      0.51      0.52       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.66      0.66      1269
+weighted avg       0.72      0.72      0.72      1269
+
+Acc : 0.7241922773837668	 F1: 0.6618154074814061
+
+epochs : 12
+ [[727  58]
+ [118 689]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89       785
+           1       0.92      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8894472361809045	 F1: 0.8893842133105937
+
+epochs : 12
+ [[626 101]
+ [ 74 226]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.89      0.86      0.88       727
+           1       0.69      0.75      0.72       300
+
+    accuracy                           0.83      1027
+   macro avg       0.79      0.81      0.80      1027
+weighted avg       0.83      0.83      0.83      1027
+
+Acc : 0.8296007789678675	 F1: 0.7991291217787732
+
+epochs : 12
+ [[728 174]
+ [180 187]]
+epochs : 12
+               precision    recall  f1-score   support
+
+           0       0.80      0.81      0.80       902
+           1       0.52      0.51      0.51       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.66      0.66      1269
+weighted avg       0.72      0.72      0.72      1269
+
+Acc : 0.7210401891252955	 F1: 0.6590780766195131
+
+epochs : 13
+ [[733  52]
+ [101 706]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.88      0.93      0.91       785
+           1       0.93      0.87      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.91      0.90      0.90      1592
+weighted avg       0.91      0.90      0.90      1592
+
+Acc : 0.9038944723618091	 F1: 0.9038668211158626
+
+epochs : 13
+ [[654  73]
+ [ 77 223]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.89      0.90      0.90       727
+           1       0.75      0.74      0.75       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.82      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8539435248296008	 F1: 0.8227207446073963
+
+epochs : 13
+ [[753 149]
+ [200 167]]
+epochs : 13
+               precision    recall  f1-score   support
+
+           0       0.79      0.83      0.81       902
+           1       0.53      0.46      0.49       367
+
+    accuracy                           0.72      1269
+   macro avg       0.66      0.64      0.65      1269
+weighted avg       0.71      0.72      0.72      1269
+
+Acc : 0.7249802994483846	 F1: 0.650439435974948
+
+epochs : 14
+ [[732  53]
+ [109 698]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.93      0.86      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8982412060301508	 F1: 0.8981947714213985
+
+epochs : 14
+ [[645  82]
+ [ 69 231]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.90      0.89      0.90       727
+           1       0.74      0.77      0.75       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.83      0.82      1027
+weighted avg       0.86      0.85      0.85      1027
+
+Acc : 0.8529698149951315	 F1: 0.8244410658268173
+
+epochs : 14
+ [[713 189]
+ [181 186]]
+epochs : 14
+               precision    recall  f1-score   support
+
+           0       0.80      0.79      0.79       902
+           1       0.50      0.51      0.50       367
+
+    accuracy                           0.71      1269
+   macro avg       0.65      0.65      0.65      1269
+weighted avg       0.71      0.71      0.71      1269
+
+Acc : 0.7084318360914106	 F1: 0.6476671729329626
+
+epochs : 15
+ [[739  46]
+ [110 697]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.87      0.94      0.90       785
+           1       0.94      0.86      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9020100502512562	 F1: 0.9019418012397836
+
+epochs : 15
+ [[665  62]
+ [ 83 217]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       727
+           1       0.78      0.72      0.75       300
+
+    accuracy                           0.86      1027
+   macro avg       0.83      0.82      0.83      1027
+weighted avg       0.86      0.86      0.86      1027
+
+Acc : 0.8588120740019474	 F1: 0.8256315681625246
+
+epochs : 15
+ [[748 154]
+ [189 178]]
+epochs : 15
+               precision    recall  f1-score   support
+
+           0       0.80      0.83      0.81       902
+           1       0.54      0.49      0.51       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.66      0.66      1269
+weighted avg       0.72      0.73      0.73      1269
+
+Acc : 0.7297084318360915	 F1: 0.6613922942819734
+
+epochs : 16
+ [[734  51]
+ [108 699]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.87      0.94      0.90       785
+           1       0.93      0.87      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9001256281407035	 F1: 0.9000773318269615
+
+epochs : 16
+ [[652  75]
+ [ 90 210]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       727
+           1       0.74      0.70      0.72       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.80      0.80      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8393378773125608	 F1: 0.8028137054685728
+
+epochs : 16
+ [[765 137]
+ [204 163]]
+epochs : 16
+               precision    recall  f1-score   support
+
+           0       0.79      0.85      0.82       902
+           1       0.54      0.44      0.49       367
+
+    accuracy                           0.73      1269
+   macro avg       0.67      0.65      0.65      1269
+weighted avg       0.72      0.73      0.72      1269
+
+Acc : 0.731284475965327	 F1: 0.653250071917542
+
+epochs : 17
+ [[714  71]
+ [ 86 721]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       785
+           1       0.91      0.89      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9013819095477387	 F1: 0.9013800028803491
+
+epochs : 17
+ [[640  87]
+ [ 76 224]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.89      0.88      0.89       727
+           1       0.72      0.75      0.73       300
+
+    accuracy                           0.84      1027
+   macro avg       0.81      0.81      0.81      1027
+weighted avg       0.84      0.84      0.84      1027
+
+Acc : 0.8412852969814996	 F1: 0.810132554813406
+
+epochs : 17
+ [[814  88]
+ [245 122]]
+epochs : 17
+               precision    recall  f1-score   support
+
+           0       0.77      0.90      0.83       902
+           1       0.58      0.33      0.42       367
+
+    accuracy                           0.74      1269
+   macro avg       0.67      0.62      0.63      1269
+weighted avg       0.71      0.74      0.71      1269
+
+Acc : 0.7375886524822695	 F1: 0.6265328144926589
+
+epochs : 18
+ [[725  60]
+ [ 97 710]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       785
+           1       0.92      0.88      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9013819095477387	 F1: 0.9013731538343464
+
+epochs : 18
+ [[666  61]
+ [ 89 211]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       727
+           1       0.78      0.70      0.74       300
+
+    accuracy                           0.85      1027
+   macro avg       0.83      0.81      0.82      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8539435248296008	 F1: 0.8182738314317262
+
+epochs : 18
+ [[711 191]
+ [158 209]]
+epochs : 18
+               precision    recall  f1-score   support
+
+           0       0.82      0.79      0.80       902
+           1       0.52      0.57      0.54       367
+
+    accuracy                           0.72      1269
+   macro avg       0.67      0.68      0.67      1269
+weighted avg       0.73      0.72      0.73      1269
+
+Acc : 0.7249802994483846	 F1: 0.673958318763035
+
+epochs : 19
+ [[727  58]
+ [ 97 710]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.88      0.93      0.90       785
+           1       0.92      0.88      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9026381909547738	 F1: 0.9026270877109908
+
+epochs : 19
+ [[663  64]
+ [ 91 209]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.88      0.91      0.90       727
+           1       0.77      0.70      0.73       300
+
+    accuracy                           0.85      1027
+   macro avg       0.82      0.80      0.81      1027
+weighted avg       0.85      0.85      0.85      1027
+
+Acc : 0.8490749756572541	 F1: 0.8124174388089742
+
+epochs : 19
+ [[794 108]
+ [221 146]]
+epochs : 19
+               precision    recall  f1-score   support
+
+           0       0.78      0.88      0.83       902
+           1       0.57      0.40      0.47       367
+
+    accuracy                           0.74      1269
+   macro avg       0.68      0.64      0.65      1269
+weighted avg       0.72      0.74      0.72      1269
+
+Acc : 0.7407407407407407	 F1: 0.6492935066113266
+
+epochs : 20
+ [[741  44]
+ [129 678]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.85      0.94      0.90       785
+           1       0.94      0.84      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8913316582914573	 F1: 0.8911612154934114
+
+epochs : 20
+ [[699  28]
+ [129 171]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.84      0.96      0.90       727
+           1       0.86      0.57      0.69       300
+
+    accuracy                           0.85      1027
+   macro avg       0.85      0.77      0.79      1027
+weighted avg       0.85      0.85      0.84      1027
+
+Acc : 0.8471275559883155	 F1: 0.7922030556289428
+
+epochs : 20
+ [[789 113]
+ [232 135]]
+epochs : 20
+               precision    recall  f1-score   support
+
+           0       0.77      0.87      0.82       902
+           1       0.54      0.37      0.44       367
+
+    accuracy                           0.73      1269
+   macro avg       0.66      0.62      0.63      1269
+weighted avg       0.71      0.73      0.71      1269
+
+Acc : 0.7281323877068558	 F1: 0.6298086069784254
+
+epochs : 1
+ [[774  11]
+ [344 463]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.69      0.99      0.81       785
+           1       0.98      0.57      0.72       807
+
+    accuracy                           0.78      1592
+   macro avg       0.83      0.78      0.77      1592
+weighted avg       0.84      0.78      0.77      1592
+
+Acc : 0.7770100502512562	 F1: 0.7681625995849439
+
+epochs : 1
+ [[714  13]
+ [168 132]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.81      0.98      0.89       727
+           1       0.91      0.44      0.59       300
+
+    accuracy                           0.82      1027
+   macro avg       0.86      0.71      0.74      1027
+weighted avg       0.84      0.82      0.80      1027
+
+Acc : 0.8237585199610516	 F1: 0.7403830978833947
+
+epochs : 1
+ [[901   1]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.7100078802206462	 F1: 0.41520737327188945
+
+epochs : 2
+ [[733  52]
+ [139 668]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.84      0.93      0.88       785
+           1       0.93      0.83      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8800251256281407	 F1: 0.8798247912548971
+
+epochs : 2
+ [[606 121]
+ [ 63 237]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.91      0.83      0.87       727
+           1       0.66      0.79      0.72       300
+
+    accuracy                           0.82      1027
+   macro avg       0.78      0.81      0.79      1027
+weighted avg       0.83      0.82      0.83      1027
+
+Acc : 0.8208373904576436	 F1: 0.794279792024107
+
+epochs : 2
+ [[812  90]
+ [289  78]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.74      0.90      0.81       902
+           1       0.46      0.21      0.29       367
+
+    accuracy                           0.70      1269
+   macro avg       0.60      0.56      0.55      1269
+weighted avg       0.66      0.70      0.66      1269
+
+Acc : 0.7013396375098503	 F1: 0.5511863046551668
+
+epochs : 1
+ [[785   0]
+ [795  12]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.50      1.00      0.66       785
+           1       1.00      0.01      0.03       807
+
+    accuracy                           0.50      1592
+   macro avg       0.75      0.51      0.35      1592
+weighted avg       0.75      0.50      0.34      1592
+
+Acc : 0.5006281407035176	 F1: 0.3465759047154396
+
+epochs : 1
+ [[727   0]
+ [299   1]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       727
+           1       1.00      0.00      0.01       300
+
+    accuracy                           0.71      1027
+   macro avg       0.85      0.50      0.42      1027
+weighted avg       0.79      0.71      0.59      1027
+
+Acc : 0.7088607594936709	 F1: 0.4180398860614836
+
+epochs : 1
+ [[902   0]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.4154767388300323
+
+epochs : 2
+ [[770  15]
+ [253 554]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.75      0.98      0.85       785
+           1       0.97      0.69      0.81       807
+
+    accuracy                           0.83      1592
+   macro avg       0.86      0.83      0.83      1592
+weighted avg       0.86      0.83      0.83      1592
+
+Acc : 0.8316582914572864	 F1: 0.8285012348219798
+
+epochs : 2
+ [[714  13]
+ [162 138]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.82      0.98      0.89       727
+           1       0.91      0.46      0.61       300
+
+    accuracy                           0.83      1027
+   macro avg       0.86      0.72      0.75      1027
+weighted avg       0.84      0.83      0.81      1027
+
+Acc : 0.8296007789678675	 F1: 0.7514015433921708
+
+epochs : 2
+ [[902   0]
+ [367   0]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.4154767388300323
+
+epochs : 1
+ [[379 406]
+ [400 407]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.49      0.48      0.48       785
+           1       0.50      0.50      0.50       807
+
+    accuracy                           0.49      1592
+   macro avg       0.49      0.49      0.49      1592
+weighted avg       0.49      0.49      0.49      1592
+
+Acc : 0.4937185929648241	 F1: 0.4935619336301348
+
+epochs : 1
+ [[366 361]
+ [154 146]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.70      0.50      0.59       727
+           1       0.29      0.49      0.36       300
+
+    accuracy                           0.50      1027
+   macro avg       0.50      0.50      0.47      1027
+weighted avg       0.58      0.50      0.52      1027
+
+Acc : 0.498539435248296	 F1: 0.4744213870414149
+
+epochs : 1
+ [[441 461]
+ [170 197]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.72      0.49      0.58       902
+           1       0.30      0.54      0.38       367
+
+    accuracy                           0.50      1269
+   macro avg       0.51      0.51      0.48      1269
+weighted avg       0.60      0.50      0.53      1269
+
+Acc : 0.5027580772261623	 F1: 0.48366901487917724
+
+epochs : 2
+ [[400 385]
+ [397 410]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.50      0.51      0.51       785
+           1       0.52      0.51      0.51       807
+
+    accuracy                           0.51      1592
+   macro avg       0.51      0.51      0.51      1592
+weighted avg       0.51      0.51      0.51      1592
+
+Acc : 0.5087939698492462	 F1: 0.5087745880228729
+
+epochs : 2
+ [[346 381]
+ [149 151]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.70      0.48      0.57       727
+           1       0.28      0.50      0.36       300
+
+    accuracy                           0.48      1027
+   macro avg       0.49      0.49      0.46      1027
+weighted avg       0.58      0.48      0.51      1027
+
+Acc : 0.48393378773125606	 F1: 0.4646327741407529
+
+epochs : 2
+ [[459 443]
+ [181 186]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.72      0.51      0.60       902
+           1       0.30      0.51      0.37       367
+
+    accuracy                           0.51      1269
+   macro avg       0.51      0.51      0.48      1269
+weighted avg       0.60      0.51      0.53      1269
+
+Acc : 0.508274231678487	 F1: 0.4844123576016127
+
+epochs : 3
+ [[357 428]
+ [417 390]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.46      0.45      0.46       785
+           1       0.48      0.48      0.48       807
+
+    accuracy                           0.47      1592
+   macro avg       0.47      0.47      0.47      1592
+weighted avg       0.47      0.47      0.47      1592
+
+Acc : 0.4692211055276382	 F1: 0.46899294419499676
+
+epochs : 3
+ [[362 365]
+ [155 145]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.70      0.50      0.58       727
+           1       0.28      0.48      0.36       300
+
+    accuracy                           0.49      1027
+   macro avg       0.49      0.49      0.47      1027
+weighted avg       0.58      0.49      0.52      1027
+
+Acc : 0.4936708860759494	 F1: 0.47000913024492874
+
+epochs : 3
+ [[456 446]
+ [171 196]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.73      0.51      0.60       902
+           1       0.31      0.53      0.39       367
+
+    accuracy                           0.51      1269
+   macro avg       0.52      0.52      0.49      1269
+weighted avg       0.61      0.51      0.54      1269
+
+Acc : 0.5137903861308116	 F1: 0.49248587435124425
+
+epochs : 4
+ [[389 396]
+ [400 407]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.49      0.50      0.49       785
+           1       0.51      0.50      0.51       807
+
+    accuracy                           0.50      1592
+   macro avg       0.50      0.50      0.50      1592
+weighted avg       0.50      0.50      0.50      1592
+
+Acc : 0.5	 F1: 0.4999360729872856
+
+epochs : 4
+ [[360 367]
+ [166 134]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.68      0.50      0.57       727
+           1       0.27      0.45      0.33       300
+
+    accuracy                           0.48      1027
+   macro avg       0.48      0.47      0.45      1027
+weighted avg       0.56      0.48      0.50      1027
+
+Acc : 0.4810126582278481	 F1: 0.4546013413002302
+
+epochs : 4
+ [[436 466]
+ [194 173]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.69      0.48      0.57       902
+           1       0.27      0.47      0.34       367
+
+    accuracy                           0.48      1269
+   macro avg       0.48      0.48      0.46      1269
+weighted avg       0.57      0.48      0.50      1269
+
+Acc : 0.4799054373522459	 F1: 0.4565634911159674
+
+epochs : 5
+ [[390 395]
+ [405 402]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.49      0.50      0.49       785
+           1       0.50      0.50      0.50       807
+
+    accuracy                           0.50      1592
+   macro avg       0.50      0.50      0.50      1592
+weighted avg       0.50      0.50      0.50      1592
+
+Acc : 0.49748743718592964	 F1: 0.4974588844344834
+
+epochs : 5
+ [[350 377]
+ [152 148]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.70      0.48      0.57       727
+           1       0.28      0.49      0.36       300
+
+    accuracy                           0.48      1027
+   macro avg       0.49      0.49      0.46      1027
+weighted avg       0.58      0.48      0.51      1027
+
+Acc : 0.48490749756572543	 F1: 0.46417831693665706
+
+epochs : 5
+ [[454 448]
+ [172 195]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.73      0.50      0.59       902
+           1       0.30      0.53      0.39       367
+
+    accuracy                           0.51      1269
+   macro avg       0.51      0.52      0.49      1269
+weighted avg       0.60      0.51      0.53      1269
+
+Acc : 0.5114263199369582	 F1: 0.49018972577886066
+
+epochs : 6
+ [[414 371]
+ [415 392]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.50      0.53      0.51       785
+           1       0.51      0.49      0.50       807
+
+    accuracy                           0.51      1592
+   macro avg       0.51      0.51      0.51      1592
+weighted avg       0.51      0.51      0.51      1592
+
+Acc : 0.5062814070351759	 F1: 0.5061871048705988
+
+epochs : 6
+ [[356 371]
+ [154 146]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.70      0.49      0.58       727
+           1       0.28      0.49      0.36       300
+
+    accuracy                           0.49      1027
+   macro avg       0.49      0.49      0.47      1027
+weighted avg       0.58      0.49      0.51      1027
+
+Acc : 0.48880233690360275	 F1: 0.46649561807547574
+
+epochs : 6
+ [[471 431]
+ [173 194]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.73      0.52      0.61       902
+           1       0.31      0.53      0.39       367
+
+    accuracy                           0.52      1269
+   macro avg       0.52      0.53      0.50      1269
+weighted avg       0.61      0.52      0.55      1269
+
+Acc : 0.5240346729708432	 F1: 0.5002216959479197
+
+epochs : 7
+ [[410 375]
+ [404 403]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.50      0.52      0.51       785
+           1       0.52      0.50      0.51       807
+
+    accuracy                           0.51      1592
+   macro avg       0.51      0.51      0.51      1592
+weighted avg       0.51      0.51      0.51      1592
+
+Acc : 0.510678391959799	 F1: 0.5106689314891206
+
+epochs : 7
+ [[368 359]
+ [152 148]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.71      0.51      0.59       727
+           1       0.29      0.49      0.37       300
+
+    accuracy                           0.50      1027
+   macro avg       0.50      0.50      0.48      1027
+weighted avg       0.59      0.50      0.52      1027
+
+Acc : 0.5024342745861733	 F1: 0.4785035510255593
+
+epochs : 7
+ [[437 465]
+ [173 194]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.72      0.48      0.58       902
+           1       0.29      0.53      0.38       367
+
+    accuracy                           0.50      1269
+   macro avg       0.51      0.51      0.48      1269
+weighted avg       0.59      0.50      0.52      1269
+
+Acc : 0.49724192277383766	 F1: 0.4781049846839321
+
+epochs : 8
+ [[391 394]
+ [416 391]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.48      0.50      0.49       785
+           1       0.50      0.48      0.49       807
+
+    accuracy                           0.49      1592
+   macro avg       0.49      0.49      0.49      1592
+weighted avg       0.49      0.49      0.49      1592
+
+Acc : 0.49120603015075376	 F1: 0.49120603015075376
+
+epochs : 8
+ [[366 361]
+ [138 162]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.73      0.50      0.59       727
+           1       0.31      0.54      0.39       300
+
+    accuracy                           0.51      1027
+   macro avg       0.52      0.52      0.49      1027
+weighted avg       0.60      0.51      0.54      1027
+
+Acc : 0.5141187925998053	 F1: 0.49416007888557345
+
+epochs : 8
+ [[440 462]
+ [199 168]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.69      0.49      0.57       902
+           1       0.27      0.46      0.34       367
+
+    accuracy                           0.48      1269
+   macro avg       0.48      0.47      0.45      1269
+weighted avg       0.57      0.48      0.50      1269
+
+Acc : 0.4791174152876281	 F1: 0.4540343939020175
+
+epochs : 9
+ [[403 382]
+ [406 401]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.50      0.51      0.51       785
+           1       0.51      0.50      0.50       807
+
+    accuracy                           0.51      1592
+   macro avg       0.51      0.51      0.51      1592
+weighted avg       0.51      0.51      0.51      1592
+
+Acc : 0.5050251256281407	 F1: 0.5050243444362902
+
+epochs : 1
+ [[783   2]
+ [674 133]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.54      1.00      0.70       785
+           1       0.99      0.16      0.28       807
+
+    accuracy                           0.58      1592
+   macro avg       0.76      0.58      0.49      1592
+weighted avg       0.76      0.58      0.49      1592
+
+Acc : 0.5753768844221105	 F1: 0.4904307080991911
+
+epochs : 1
+ [[726   1]
+ [258  42]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.74      1.00      0.85       727
+           1       0.98      0.14      0.24       300
+
+    accuracy                           0.75      1027
+   macro avg       0.86      0.57      0.55      1027
+weighted avg       0.81      0.75      0.67      1027
+
+Acc : 0.747809152872444	 F1: 0.5467622466871027
+
+epochs : 1
+ [[902   0]
+ [367   0]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83       902
+           1       0.00      0.00      0.00       367
+
+    accuracy                           0.71      1269
+   macro avg       0.36      0.50      0.42      1269
+weighted avg       0.51      0.71      0.59      1269
+
+Acc : 0.710795902285264	 F1: 0.4154767388300323
+
+epochs : 2
+ [[766  19]
+ [232 575]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.77      0.98      0.86       785
+           1       0.97      0.71      0.82       807
+
+    accuracy                           0.84      1592
+   macro avg       0.87      0.84      0.84      1592
+weighted avg       0.87      0.84      0.84      1592
+
+Acc : 0.8423366834170855	 F1: 0.8400341395437839
+
+epochs : 2
+ [[690  37]
+ [131 169]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89       727
+           1       0.82      0.56      0.67       300
+
+    accuracy                           0.84      1027
+   macro avg       0.83      0.76      0.78      1027
+weighted avg       0.83      0.84      0.83      1027
+
+Acc : 0.8364167478091529	 F1: 0.7797285289701872
+
+epochs : 2
+ [[894   8]
+ [354  13]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.72      0.99      0.83       902
+           1       0.62      0.04      0.07       367
+
+    accuracy                           0.71      1269
+   macro avg       0.67      0.51      0.45      1269
+weighted avg       0.69      0.71      0.61      1269
+
+Acc : 0.7147360126083531	 F1: 0.44931910812754733
+
+epochs : 1
+ [[761  24]
+ [160 647]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.83      0.97      0.89       785
+           1       0.96      0.80      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.90      0.89      0.88      1592
+weighted avg       0.90      0.88      0.88      1592
+
+Acc : 0.8844221105527639	 F1: 0.883826405887364
+
+epochs : 2
+ [[706  79]
+ [ 78 729]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90       785
+           1       0.90      0.90      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.9013819095477387	 F1: 0.9013613214230042
+
+epochs : 3
+ [[686  99]
+ [ 73 734]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.90      0.87      0.89       785
+           1       0.88      0.91      0.90       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8919597989949749	 F1: 0.8918614937444711
+
+epochs : 4
+ [[670 115]
+ [ 71 736]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.90      0.85      0.88       785
+           1       0.86      0.91      0.89       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8831658291457286	 F1: 0.8829646797686106
+
+epochs : 5
+ [[683 102]
+ [ 84 723]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88       785
+           1       0.88      0.90      0.89       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8831658291457286	 F1: 0.8830920254699819
+
+epochs : 6
+ [[719  66]
+ [108 699]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.87      0.92      0.89       785
+           1       0.91      0.87      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8907035175879398	 F1: 0.8906862652245563
+
+epochs : 7
+ [[727  58]
+ [108 699]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.87      0.93      0.90       785
+           1       0.92      0.87      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8957286432160804	 F1: 0.8956963783903256
+
+epochs : 8
+ [[676 109]
+ [ 80 727]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.89      0.86      0.88       785
+           1       0.87      0.90      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8812814070351759	 F1: 0.8811594466209269
+
+epochs : 9
+ [[713  72]
+ [ 91 716]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.89      0.91      0.90       785
+           1       0.91      0.89      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8976130653266332	 F1: 0.8976127017445565
+
+epochs : 10
+ [[700  85]
+ [102 705]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.87      0.89      0.88       785
+           1       0.89      0.87      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.882537688442211	 F1: 0.8825365297803577
+
+epochs : 1
+ [[752  33]
+ [180 627]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88       785
+           1       0.95      0.78      0.85       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8662060301507538	 F1: 0.8653760720712995
+
+epochs : 2
+ [[760  25]
+ [172 635]]
+epochs : 2
+               precision    recall  f1-score   support
+
+           0       0.82      0.97      0.89       785
+           1       0.96      0.79      0.87       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8762562814070352	 F1: 0.8754886675964602
+
+epochs : 3
+ [[740  45]
+ [124 683]]
+epochs : 3
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       785
+           1       0.94      0.85      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.89      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8938442211055276	 F1: 0.8937079623817021
+
+epochs : 4
+ [[657 128]
+ [ 58 749]]
+epochs : 4
+               precision    recall  f1-score   support
+
+           0       0.92      0.84      0.88       785
+           1       0.85      0.93      0.89       807
+
+    accuracy                           0.88      1592
+   macro avg       0.89      0.88      0.88      1592
+weighted avg       0.89      0.88      0.88      1592
+
+Acc : 0.8831658291457286	 F1: 0.8827743467933492
+
+epochs : 5
+ [[751  34]
+ [134 673]]
+epochs : 5
+               precision    recall  f1-score   support
+
+           0       0.85      0.96      0.90       785
+           1       0.95      0.83      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.90      0.90      0.89      1592
+weighted avg       0.90      0.89      0.89      1592
+
+Acc : 0.8944723618090452	 F1: 0.8942184323558959
+
+epochs : 6
+ [[736  49]
+ [118 689]]
+epochs : 6
+               precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       785
+           1       0.93      0.85      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.89      1592
+
+Acc : 0.8951005025125628	 F1: 0.8950089939599291
+
+epochs : 7
+ [[749  36]
+ [125 682]]
+epochs : 7
+               precision    recall  f1-score   support
+
+           0       0.86      0.95      0.90       785
+           1       0.95      0.85      0.89       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8988693467336684	 F1: 0.8986899080030435
+
+epochs : 8
+ [[702  83]
+ [ 79 728]]
+epochs : 8
+               precision    recall  f1-score   support
+
+           0       0.90      0.89      0.90       785
+           1       0.90      0.90      0.90       807
+
+    accuracy                           0.90      1592
+   macro avg       0.90      0.90      0.90      1592
+weighted avg       0.90      0.90      0.90      1592
+
+Acc : 0.8982412060301508	 F1: 0.8982140573718085
+
+epochs : 9
+ [[681 104]
+ [ 66 741]]
+epochs : 9
+               precision    recall  f1-score   support
+
+           0       0.91      0.87      0.89       785
+           1       0.88      0.92      0.90       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8932160804020101	 F1: 0.8930641867757414
+
+epochs : 10
+ [[701  84]
+ [ 88 719]]
+epochs : 10
+               precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       785
+           1       0.90      0.89      0.89       807
+
+    accuracy                           0.89      1592
+   macro avg       0.89      0.89      0.89      1592
+weighted avg       0.89      0.89      0.89      1592
+
+Acc : 0.8919597989949749	 F1: 0.8919459856203682
+
+epochs : 1
+ [[752  33]
+ [174 633]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88       785
+           1       0.95      0.78      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8699748743718593	 F1: 0.8692442932456931
+
+epochs : 1
+ [[686  99]
+ [ 89 718]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88       785
+           1       0.88      0.89      0.88       807
+
+    accuracy                           0.88      1592
+   macro avg       0.88      0.88      0.88      1592
+weighted avg       0.88      0.88      0.88      1592
+
+Acc : 0.8819095477386935	 F1: 0.8818618163445751
+
+epochs : 1
+ [[753  32]
+ [178 629]]
+epochs : 1
+               precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88       785
+           1       0.95      0.78      0.86       807
+
+    accuracy                           0.87      1592
+   macro avg       0.88      0.87      0.87      1592
+weighted avg       0.88      0.87      0.87      1592
+
+Acc : 0.8680904522613065	 F1: 0.8672853032526058
+
